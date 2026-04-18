@@ -37,6 +37,8 @@ Retrieve student performance using JOINs
 Calculate average marks using GROUP BY
 Find top students based on marks
 
+# ER Diagram:
+
 # 🧠 Learning Outcome
 Through this project, I understood how real-world databases are structured and how SQL queries are used for data analysis.
 
